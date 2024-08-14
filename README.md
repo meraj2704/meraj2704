@@ -19,13 +19,13 @@ Let's code the web forward, one line at a time! 🌟
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meraj2704" alt="meraj2704" /></a> </p>
 
-- 🔭 I’m currently working on **Newspaper Website**
+- 🔭 I’m currently working on **Food Shop Backend**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Express.js**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **mh1669101@gmail.com**
 
