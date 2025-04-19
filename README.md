@@ -23,7 +23,7 @@ Tools: Git, GitHub, Postman, VS Code
 
 - 🔭 I’m currently working on **Food Shop Backend**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Nest.js, PostgreSql**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
